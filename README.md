@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFkMTM1YWFiOGQzZTkwMTVmNmI4NThjYjE0ZGE4ZjU3MzljYTk5OSZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" width="200">
     <h1 align="center">Hola a todos, soy Cristian</h1>
-    <h3 align="center">Un apasionado fullstack developer el cual esta enamorado de la informatica y todo lo que abarca.</h3>
+    <h3 align="center">Un apasionado fullstack developer el cual esta enamorado de la informatica.</h3>
 </div>
 ---
 
@@ -39,6 +39,6 @@ Sobre mi:
 
 ### Mis Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianRodriguez07&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
