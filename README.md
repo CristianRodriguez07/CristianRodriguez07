@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFkMTM1YWFiOGQzZTkwMTVmNmI4NThjYjE0ZGE4ZjU3MzljYTk5OSZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" width="200">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
     <h1 align="center">Hola a todos, soy Cristian</h1>
     <h3 align="center">Un apasionado fullstack developer el cual esta enamorado de la informatica.</h3>
 </div>
