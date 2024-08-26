@@ -7,15 +7,15 @@
 
 Sobre mi:
 
-- 🔭 Actualmente estoy estudiando desarrollo de programa multiplataforma
+- 🔭 Graduado en desarrollo de programa multiplataforma
 
 - ⚡ Estoy interesado en conocer una empresa que me haga crecer tanto informatica como personalmente.
 
-- 💬 Los lenguajes que más domino actualmente son: Java | HTML Y CSS | MySQL | Kotlin  
+- 💬 Los lenguajes que más domino actualmente son: Java | HTML Y CSS | MySQL | Python |  
 
 - 🤔 Soy un chico productivo, creativo, muy comprometido y trabajador en equipo.
 
-- 📫 Puedes contactarme mediante: ** Crodc3011@gmail.com ** 
+- 📫 Puedes contactarme mediante: ** cr113022@gmail.com ** 
 
 ---
 
