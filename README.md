@@ -28,10 +28,10 @@ Sobre mi:
         title="HTML" alt="HTML">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40" 
         title="CSS" alt="CSS">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="40" height="40" 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" 
         title="MySQL" alt="MySQL">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" width="40" height="40" 
-        title="Kotlin" alt="Kotlin">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" 
+        title="Python" alt="Pyton">
     </div>
 </div>
 
