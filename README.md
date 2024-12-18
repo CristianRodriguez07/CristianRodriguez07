@@ -11,7 +11,7 @@ Sobre mi:
 
 - ⚡ Estoy interesado en conocer una empresa que me haga crecer tanto informatica como personalmente.
 
-- 💬 Los lenguajes que más domino actualmente son: Java | HTML Y CSS | MySQL | Python |  
+- 💬 Los lenguajes que más domino actualmente son: Angular | React | NodeJs | MySQL | Python |  Spring Boot | MongoDB | JavaScript
 
 - 🤔 Soy un chico productivo, creativo, muy comprometido y trabajador en equipo.
 
@@ -22,16 +22,22 @@ Sobre mi:
 <div>
     <h3> Languages and tools </h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" width="40" height="40" 
-        title="Java" alt="Java">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40" 
-        title="HTML" alt="HTML">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40" 
-        title="CSS" alt="CSS">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="40" height="40" 
+        title="Angular" alt="Angular">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" 
+        title="React" alt="React">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" 
+        title="NodeJs" alt="NodeJs">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" 
         title="MySQL" alt="MySQL">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" 
         title="Python" alt="Pyton">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" height="40" 
+        title="Spring" alt="Spring">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" 
+        title="MongoDB" alt="MongoDB">
+         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" 
+        title="JavaScript" alt="JavaScript">
     </div>
 </div>
 
